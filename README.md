@@ -21,7 +21,7 @@ Download or clone git repository.
 
 ## Code Status
 
-[![Build Status](https://travis-ci.org/Cloudplement/amiok.svg?branch=master)](https://travis-ci.org/Cloudplement/amiok)
+[![Build Status](https://travis-ci.org/Cloudplement/amiok.svg?branch=master)](https://travis-ci.org/Cloudplement/amiok) [![Code Climate](https://codeclimate.com/github/Cloudplement/amiok/badges/gpa.svg)](https://codeclimate.com/github/Cloudplement/amiok)
 
 ## License
 
