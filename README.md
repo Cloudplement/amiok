@@ -19,6 +19,10 @@ Download or clone git repository.
         >>> get_status("http://not-the-google.com")
         'OK'
 
+## Code Status
+
+[![Build Status](https://travis-ci.org/Cloudplement/amiok.svg?branch=master)](https://travis-ci.org/Cloudplement/amiok)
+
 ## License
 
 Am I OK is released under the [MIT License](http://www.opensource.org/licenses/MIT).
