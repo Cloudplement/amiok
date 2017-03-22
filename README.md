@@ -17,7 +17,7 @@ Download or clone git repository.
         'OK'
 
         >>> get_status("http://not-the-google.com")
-        'OK'
+        'Not OK'
 
 ## Code Status
 
